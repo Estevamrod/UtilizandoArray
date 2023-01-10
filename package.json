@@ -1,0 +1,24 @@
+{
+  "name": "utilizandoarray",
+  "version": "1.0.0",
+  "description": "struggling to create a api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "vamo": "nodemon src/js/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estevamrod/UtilizandoArray.git"
+  },
+  "author": "EstevamOT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Estevamrod/UtilizandoArray/issues"
+  },
+  "homepage": "https://github.com/Estevamrod/UtilizandoArray#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
